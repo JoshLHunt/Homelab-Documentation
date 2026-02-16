@@ -21,4 +21,31 @@ All environments are isolated, private, and sanitized for documentation purposes
 
 ---
 
-##
+## Tooling & Methodology
+
+### Enumeration
+- Network scanning
+- Service enumeration
+- User discovery
+- Kerberos-based attacks
+
+### Credential Attacks
+- Password spraying
+- AS-REP roasting
+- Kerberoasting
+- NTLM relay testing
+
+### Post-Exploitation
+- Privilege escalation techniques
+- Lateral movement concepts
+- Persistence strategies
+
+---
+
+## Reporting Practice
+
+Each lab exercise includes:
+- Attack path summary
+- Evidence screenshots (sanitized)
+- Risk explanation
+- Mitigation recommendations
