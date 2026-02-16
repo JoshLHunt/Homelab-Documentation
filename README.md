@@ -1,19 +1,31 @@
-# Homelab-Documentation
-Documentation for my Homelab build, networking, and security testing environment.
+# Homelab Documentation
 
-This repository contains documentation for my home lab environment, including:
-- Virtualization (Proxmox)
-- Storage (TrueNAS / ZFS)
-- Networking (VLANs, segmentation)
-- Security lab work (AD lab, tooling, and testing methodology)
+Professional documentation of a segmented home lab environment built to simulate enterprise infrastructure and security testing scenarios.
 
-## Goals
-- Maintain repeatable build documentation
-- Track changes and improvements over time
-- Demonstrate hands-on infrastructure and security skills
+This repository contains structured build documentation covering:
 
-## Safety / Redaction
-All sensitive details are redacted:
-- No public IPs, real domain names, or credentials
-- Internal IPs are anonymized
-- Hostnames and usernames are sanitized
+- Virtualization (Proxmox VE cluster design)
+- Storage architecture (TrueNAS / ZFS)
+- Network segmentation (VLANs, LACP, firewall boundaries)
+- Active Directory security testing environments
+- Offensive and defensive security methodology
+
+---
+
+## Purpose
+
+This lab serves as a controlled environment to:
+
+- Practice infrastructure hardening
+- Simulate attack paths in Active Directory
+- Develop repeatable security testing workflows
+- Improve technical documentation and reporting skills
+
+All sensitive data, IPs, and identifiers are sanitized.
+
+---
+
+## High-Level Architecture
+
+A simplified representation of the lab environment:
+
