@@ -1,0 +1,5 @@
+[proxmox_nodes]
+Prox1 10.0.50.2
+Prox2 10.0.50.3
+
+//More to come, this was just the initial build.
